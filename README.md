@@ -26,7 +26,7 @@ In our solution, we have used at **least 2 AI-related techniques** that have bee
 1. Heuristic Search Algorithms (using general or Pacman specific heuristic functions).
 2. Monte Carlo Tree Search or UCT (Model-Free MDP).
 
-## 3. Pre-contest feedback contests
+## 1.2 Pre-contest feedback contests
 
 We will be running **_feedback_ contests** based on preliminary versions of teams' agents in the weeks before the final project submission. We will start once **five teams** have submitted their preliminary agents by tagging their repos with "`testing`".
 
@@ -41,6 +41,14 @@ The earlier you submit your agents, the more feedback you will receive and the b
 ## 2. Inter-University Competition
 
 The top teams of the final tournament will be inducted to the [RMIT-UoM Pacman Hall of Fame](https://sites.google.com/view/pacman-capture-hall-fame/) and will qualify to the yearly championship across RMIT and The University of Melbourne, which runs every year with the best teams since 2017 onward.
+
+## 2.1 Final result
+
+On our final tournament run, we have obtained the 9th out of 60 teams.
+
+<p align="center"> 
+    <img src="img/results.png" alt="logo project 3" width="400">
+ </p>
 
 ## 3. Getting Started
 
